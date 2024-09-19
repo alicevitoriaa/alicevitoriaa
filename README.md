@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Alice Vitória!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000?style=flat&logo=appveyor&logoColor=white" alt="Desenvolvedora Full Stack">
+  <img src="https://img.shields.io/badge/Front%20End%20Developer-000?style=flat&logo=appveyor&logoColor=white" alt="Desenvolvedora Full Stack">
 </p>
 
 <p align="center">
