@@ -47,15 +47,7 @@ Período: `16/09/2024` - `Atual` \
 
 ### Tecnologias:
   
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-    <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React"/>
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS"/>
-    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/>
-  </p>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass)](https://skillicons.dev)
 
 ---
 
