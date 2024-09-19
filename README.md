@@ -12,7 +12,9 @@
 
 ### Sobre mim:
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-code-slash" viewBox="0 0 16 16">
+  <path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0m6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0"/>
+</svg>
 
 <p align="center">Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Amo explorar novos conceitos e aprender ferramentas que me ajudem a desenvolver produtos melhores e mais otimizados. <br/> Além do desenvolvimento, gosto de me conectar com pessoas, aprender com elas e colaborar em projetos que me permitam contribuir positivamente para a comunidade de tecnologia. Fora do trabalho, meus hobbies incluem 📚 ler, 🏖️ relaxar na praia e 🎮 jogar, pois acredito que o equilíbrio entre diversão e dedicação é essencial para crescer como pessoa e profissional. <br/> Seja bem-vindo(a) ao meu GitHub! Aqui você encontrará alguns dos meus projetos e um pouco mais sobre a minha jornada como desenvolvedora.</p>
 
@@ -95,9 +97,7 @@ Período: `16/09/2024` - `Atual` \
 ### 🌐 Redes sociais:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/)
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](alice.vitori64@gmail.com)
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> - alice.vitori64@gmail.com
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5521966571141;)
 
 ---
