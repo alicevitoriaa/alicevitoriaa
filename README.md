@@ -5,13 +5,8 @@
 </p>
 
 <p align="center">
-  Sou uma desenvolvedora front end interessada em criar soluções simples, ágeis e tecnológicas.
+  Sou uma desenvolvedora front end interessada em criar soluções simples, ágeis e tecnológicas. Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Amo explorar novos conceitos e aprender ferramentas que me ajudem a desenvolver produtos melhores e mais otimizados. <br/> Além do desenvolvimento, gosto de me conectar com pessoas, aprender com elas e colaborar em projetos que me permitam contribuir positivamente para a comunidade de tecnologia. Fora do trabalho, meus hobbies incluem 📚 ler, 🏖️ relaxar na praia e 🎮 jogar, pois acredito que o equilíbrio entre diversão e dedicação é essencial para crescer como pessoa e profissional. <br/> Seja bem-vindo(a) ao meu GitHub! Aqui você encontrará alguns dos meus projetos e um pouco mais sobre a minha jornada como desenvolvedora.
 </p>
-
----
-
-### Sobre mim:
-<p>Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Amo explorar novos conceitos e aprender ferramentas que me ajudem a desenvolver produtos melhores e mais otimizados. <br/> Além do desenvolvimento, gosto de me conectar com pessoas, aprender com elas e colaborar em projetos que me permitam contribuir positivamente para a comunidade de tecnologia. Fora do trabalho, meus hobbies incluem 📚 ler, 🏖️ relaxar na praia e 🎮 jogar, pois acredito que o equilíbrio entre diversão e dedicação é essencial para crescer como pessoa e profissional. <br/> Seja bem-vindo(a) ao meu GitHub! Aqui você encontrará alguns dos meus projetos e um pouco mais sobre a minha jornada como desenvolvedora.</p>
 
 ---
 
