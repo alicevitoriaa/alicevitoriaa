@@ -11,12 +11,7 @@
 ---
 
 ### Sobre mim:
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-code-slash" viewBox="0 0 16 16">
-  <path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0m6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0"/>
-</svg>
-
-<p align="center">Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Amo explorar novos conceitos e aprender ferramentas que me ajudem a desenvolver produtos melhores e mais otimizados. <br/> Além do desenvolvimento, gosto de me conectar com pessoas, aprender com elas e colaborar em projetos que me permitam contribuir positivamente para a comunidade de tecnologia. Fora do trabalho, meus hobbies incluem 📚 ler, 🏖️ relaxar na praia e 🎮 jogar, pois acredito que o equilíbrio entre diversão e dedicação é essencial para crescer como pessoa e profissional. <br/> Seja bem-vindo(a) ao meu GitHub! Aqui você encontrará alguns dos meus projetos e um pouco mais sobre a minha jornada como desenvolvedora.</p>
+<p>Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Amo explorar novos conceitos e aprender ferramentas que me ajudem a desenvolver produtos melhores e mais otimizados. <br/> Além do desenvolvimento, gosto de me conectar com pessoas, aprender com elas e colaborar em projetos que me permitam contribuir positivamente para a comunidade de tecnologia. Fora do trabalho, meus hobbies incluem 📚 ler, 🏖️ relaxar na praia e 🎮 jogar, pois acredito que o equilíbrio entre diversão e dedicação é essencial para crescer como pessoa e profissional. <br/> Seja bem-vindo(a) ao meu GitHub! Aqui você encontrará alguns dos meus projetos e um pouco mais sobre a minha jornada como desenvolvedora.</p>
 
 ---
 
