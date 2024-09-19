@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Sou uma desenvolvedora full stack interessada em criar soluções simples, ágeis e tecnológicas.
+  Sou uma desenvolvedora front end interessada em criar soluções simples, ágeis e tecnológicas.
 </p>
 
 ---
@@ -47,7 +47,7 @@ Período: `16/09/2024` - `Atual` \
 
 ### Tecnologias:
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,sass)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,ts,nodejs,sass,tailwind)](https://skillicons.dev)
 
 ---
 
