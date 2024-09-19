@@ -93,7 +93,8 @@ Período: `16/09/2024` - `Atual` \
 ---
 
 ### 🌐 Redes sociais:
-- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://www.cecierj.edu.br/cederj/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](alice.vitori64@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/)
 - Email: alice.vitori64@gmail.com
 
