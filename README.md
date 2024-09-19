@@ -17,14 +17,14 @@
 **Desenvolvedora Full Stack** \
 [**WebDiet**](https://webdiet.com.br/) • Estágio \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Git`, `Bootstrap`, `Firebase` \
+Período: `05/23` - `12/23`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="InforMaker" src="https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8"/>](https://www.informaker.com.br/)
 
-**Jovem aprendiz (English spoken)** \
+**Administrativo (English spoken)** \
 [**InforMaker**](https://www.informaker.com.br/) • Jovem Aprendiz \
-Setor: `Administrativo` \
-Período: `16/09/2024` - `Atual` \
+Período: `09/24` - `Atual` \
 <br/>
 
 ---
