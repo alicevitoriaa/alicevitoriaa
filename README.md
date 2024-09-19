@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- Sou desenvolvedora front-end focada em criar soluções simples e ágeis, sempre buscando aprimorar minhas habilidades e expandir conhecimentos. Valorizo a colaboração em projetos que contribuem para a comunidade de tecnologia, além de explorar ferramentas que otimizem o desenvolvimento de produtos. Fora do ambiente profissional, gosto de ler, relaxar na praia e jogar, mantendo um equilíbrio entre vida pessoal e profissional. Seja bem-vindo(a) ao meu GitHub, onde compartilho projetos e minha trajetória no desenvolvimento.
+ Focada em criar soluções simples e ágeis, sempre buscando aprimorar minhas habilidades e expandir conhecimentos. Valorizo a colaboração em projetos que contribuem para a comunidade de tecnologia, além de explorar ferramentas que otimizem o desenvolvimento de produtos. Fora do ambiente profissional, gosto de ler, relaxar na praia e jogar, mantendo um equilíbrio entre vida pessoal e profissional. Seja bem-vindo(a) ao meu GitHub, onde compartilho projetos e minha trajetória no desenvolvimento.
 </p>
 
 ---
