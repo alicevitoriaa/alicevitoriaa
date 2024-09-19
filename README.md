@@ -32,10 +32,10 @@ Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramenta
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8"/>]([https://www.informaker.com.br/default.asp](https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8))
+[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8"/>](https://www.informaker.com.br/)
 
 **Jovem aprendiz (English spoken)** \
-[**InforMaker**](https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8) • Jovem Aprendiz \
+[**InforMaker**](https://www.informaker.com.br/) • Jovem Aprendiz \
 Setor: `Administrativo` \
 Período: `16/09/2024` - `Atual` \
 <br/>
