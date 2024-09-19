@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Alice Vitória!</h1>
+<h1 align="center">Olá, eu sou Alice Vitória :)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedora%20Front%20End-000?style=flat&logo=appveyor&logoColor=white" alt="Desenvolvedora Full Stack">
