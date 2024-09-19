@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Sou uma desenvolvedora front end interessada em criar soluções simples, ágeis e tecnológicas. Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Amo explorar novos conceitos e aprender ferramentas que me ajudem a desenvolver produtos melhores e mais otimizados. <br/> Além do desenvolvimento, gosto de me conectar com pessoas, aprender com elas e colaborar em projetos que me permitam contribuir positivamente para a comunidade de tecnologia. Fora do trabalho, meus hobbies incluem 📚 ler, 🏖️ relaxar na praia e 🎮 jogar, pois acredito que o equilíbrio entre diversão e dedicação é essencial para crescer como pessoa e profissional. <br/> Seja bem-vindo(a) ao meu GitHub! Aqui você encontrará alguns dos meus projetos e um pouco mais sobre a minha jornada como desenvolvedora.
+ Sou desenvolvedora front-end focada em criar soluções simples e ágeis, sempre buscando aprimorar minhas habilidades e expandir conhecimentos. Valorizo a colaboração em projetos que contribuem para a comunidade de tecnologia, além de explorar ferramentas que otimizem o desenvolvimento de produtos. Fora do ambiente profissional, gosto de ler, relaxar na praia e jogar, mantendo um equilíbrio entre vida pessoal e profissional. Seja bem-vindo(a) ao meu GitHub, onde compartilho projetos e minha trajetória no desenvolvimento.
 </p>
 
 ---
@@ -32,14 +32,6 @@ Período: `16/09/2024` - `Atual` \
 
 ---
 
-### Hobbies:
-- 👩🏾‍💻 Estudar novas tecnologias;
-- 📖 Ler;
-- 🏖️ ir à praia;
-- 🎮 jogar.
-  
----
-
 ### Tecnologias:
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,ts,nodejs,sass,tailwind,redux)](https://skillicons.dev)
@@ -47,19 +39,20 @@ Período: `16/09/2024` - `Atual` \
 ---
 
 ### 📖 O que estou aprendendo atualmente:
+
 - TypeScript;
 - Redux.
 
 ---
 
 ### 📂 Projetos Destacados:
-- **[Meu portfólio](https://link-do-projeto.com)** - Um portfólio pessoal que apresenta meus projetos e habilidades.
-- **[App de Receitas](https://link-do-projeto.com)** - Um aplicativo de receitas desenvolvido com React Native.
-- **[Galeria de Fotos](https://link-do-projeto.com)** - Um site responsivo que exibe fotos usando a API do Unsplash.
+
+- **[Meu portfólio](https://alicevitoriaa.github.io/portifolio/)** - Um portfólio pessoal que apresenta meus projetos e habilidades.
 
 ---
 
 ### 📊 My stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alicevitoriaa&show_icons=true&theme=radical" alt="Alice's GitHub Stats" width="400px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicevitoriaa&theme=radical" alt="GitHub Streak Stats" width="400px" />
@@ -72,6 +65,7 @@ Período: `16/09/2024` - `Atual` \
 ---
 
 ### 🏆 Certificados e Conquistas:
+
 - **[Co.liga](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/overlay/1724981597354/single-media-viewer/?profileId=ACoAAElp9mwBEOlrHNoaqBAZ6S9TA1qRypzMx50)** - Certificado de conclusão de Métodos Ágeis.
 
 ---
@@ -79,16 +73,13 @@ Período: `16/09/2024` - `Atual` \
 ### 🌐 Redes sociais:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/)
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> - alice.vitori64@gmail.com
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5521966571141;)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />] - alice.vitori64@gmail.com
 
 ---
 
 ### 📄 Meu CV:
-<p align="center">
-  <a href="https://linkparaoCV.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Baixar%20CV-000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Baixar CV">
-  </a>
-</p>
 
----
+<a href="https://linkparaoCV.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Ver%20CV-000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Baixar CV">
+</a>
