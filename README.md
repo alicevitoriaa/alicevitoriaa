@@ -10,6 +10,43 @@
 
 ---
 
+### Sobre mim:
+
+<div display="flex">
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="foto"/>
+</div>
+
+---
+
+### 💼 Experiência de Trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://webdiet.com.br/assets/novosite/img/logo-completo.svg"/>](https://webdiet.com.br/)
+
+**Desenvolvedora Full Stack** \
+[**WebDiet**](https://webdiet.com.br/) • Estágio \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `React`, `Vue.js`, `TailwindCSS` \
+Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramentas Personalizadas](https://webdiet.com.br/#ferramentas)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://webdiet.com.br/assets/novosite/img/logo-completo.svg"/>](https://webdiet.com.br/)
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://www.informaker.com.br/default.asp"/>](https://www.informaker.com.br/default.asp)
+
+**Jovem aprendiz (English speak)** \
+[**InforMaker**](https://webdiet.com.br/) • Jovem Aprendiz \
+Linguagens & Tecnologias: `...` \
+Setor: `Administrativo` \
+Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramentas Personalizadas](https://webdiet.com.br/#ferramentas)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://www.informaker.com.br/default.asp"/>](https://www.informaker.com.br/default.asp)
+
+---
+
 ### Hobbies:
 - 👩🏾‍💻 Estudar novas tecnologias;
 - 📖 Ler;
