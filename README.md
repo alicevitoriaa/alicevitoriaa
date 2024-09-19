@@ -74,7 +74,7 @@ Período: `16/09/2024` - `Atual` \
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5521966571141;)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />] - alice.vitori64@gmail.com
+<img src="https://img.shields.io/badge/alice.vitori64@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ---
 
