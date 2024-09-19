@@ -22,15 +22,13 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://webdiet.com.br/assets/novosite/img/logo-completo.svg"/>](https://webdiet.com.br/)
+[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://media.licdn.com/dms/image/v2/C560BAQFXzoa9BMawOw/company-logo_200_200/company-logo_200_200/0/1630627639602/webdiet_logo?e=1734566400&v=beta&t=ITxhKglVf8q4vndUN00zF5PyxVDyoo-KCCanmrSuNYk"/>](https://webdiet.com.br/)
 
 **Desenvolvedora Full Stack** \
 [**WebDiet**](https://webdiet.com.br/) • Estágio \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Git`, `Bootstrap`, `Firebase` \
 Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramentas Personalizadas](https://webdiet.com.br/#ferramentas)
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://webdiet.com.br/assets/novosite/img/logo-completo.svg"/>](https://webdiet.com.br/)
 
 <br/>
 
@@ -41,8 +39,6 @@ Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramenta
 Setor: `Administrativo` \
 Período: `16/09/2024` - `Atual` \
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8"/>]([https://www.informaker.com.br/default.asp](https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8))
 
 ---
 
