@@ -13,14 +13,17 @@
 ### Sobre mim:
 
 <div display="flex">
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="foto"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  Atualmente, trabalho com tecnologias como **React**, **Vue.js**, **TailwindCSS** e **Sass**, e estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Amo explorar novos conceitos e aprender ferramentas que me ajudem a desenvolver produtos melhores e mais otimizados.
+
+Além do desenvolvimento, gosto de me conectar com pessoas, aprender com elas e colaborar em projetos que me permitam contribuir positivamente para a comunidade de tecnologia. Fora do trabalho, meus hobbies incluem 📚 ler, 🏖️ relaxar na praia e 🎮 jogar, pois acredito que o equilíbrio entre diversão e dedicação é essencial para crescer como pessoa e profissional.
+
+Seja bem-vindo(a) ao meu GitHub! Aqui você encontrará alguns dos meus projetos e um pouco mais sobre a minha jornada como desenvolvedora.
 </div>
 
 ---
 
 ### 💼 Experiência de Trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="WebDiet" src="https://media.licdn.com/dms/image/v2/C560BAQFXzoa9BMawOw/company-logo_200_200/company-logo_200_200/0/1630627639602/webdiet_logo?e=1734566400&v=beta&t=ITxhKglVf8q4vndUN00zF5PyxVDyoo-KCCanmrSuNYk"/>](https://webdiet.com.br/)
 
