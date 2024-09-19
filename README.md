@@ -26,7 +26,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedora Full Stack** \
 [**WebDiet**](https://webdiet.com.br/) • Estágio \
-Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `React`, `Vue.js`, `TailwindCSS` \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Git`, `Bootstrap`, `Firebase` \
 Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramentas Personalizadas](https://webdiet.com.br/#ferramentas)
 <br/>
 
@@ -34,16 +34,15 @@ Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramenta
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://www.informaker.com.br/default.asp"/>](https://www.informaker.com.br/default.asp)
+[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8"/>]([https://www.informaker.com.br/default.asp](https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8))
 
-**Jovem aprendiz (English speak)** \
-[**InforMaker**](https://webdiet.com.br/) • Jovem Aprendiz \
-Linguagens & Tecnologias: `...` \
+**Jovem aprendiz (English spoken)** \
+[**InforMaker**](https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8) • Jovem Aprendiz \
 Setor: `Administrativo` \
-Projetos em destaque: [Projeto Nutrição](https://webdiet.com.br/), [Ferramentas Personalizadas](https://webdiet.com.br/#ferramentas)
+Período: `16/09/2024` - `Atual` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://www.informaker.com.br/default.asp"/>](https://www.informaker.com.br/default.asp)
+[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8"/>]([https://www.informaker.com.br/default.asp](https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1734566400&v=beta&t=uUDRsjJ4mXeluuDa9YJt43VJUCSBHrSUHurXRiki9z8))
 
 ---
 
