@@ -10,8 +10,12 @@
 
 ---
 
-### Sobre mim:
-- 📚 Hobbies: ler, 🏖️ ir à praia, 🎮 jogar
+### Hobbies:
+- 👩🏾‍💻 Estudar novas tecnologias;
+- 📖 Ler;
+- 🏖️ ir à praia;
+- 🎮 jogar.
+  
 ---
 
 ### Tecnologias:
@@ -55,7 +59,6 @@
 
 ### 🏆 Certificados e Conquistas:
 - **[Co.liga](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/overlay/1724981597354/single-media-viewer/?profileId=ACoAAElp9mwBEOlrHNoaqBAZ6S9TA1qRypzMx50)** - Certificado de conclusão de Métodos Ágeis.
-- **[Certificado de Vue.js](https://link-para-certificado.com)** - Certificado de Vue.js da Udemy.
 
 ---
 
