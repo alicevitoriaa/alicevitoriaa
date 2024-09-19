@@ -47,7 +47,7 @@ Período: `16/09/2024` - `Atual` \
 
 ### Tecnologias:
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,sass)](https://skillicons.dev)
 
 ---
 
