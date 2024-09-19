@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Alice Vitória!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000?style=flat&logo=appveyor&logoColor=white" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000?style=flat&logo=appveyor&logoColor=white" alt="Desenvolvedora Full Stack">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 ---
 
 ### 🏆 Certificados e Conquistas:
-- **[Curso de React](https://link-para-certificado.com)** - Certificado de conclusão de React.
+- **[Co.liga](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/overlay/1724981597354/single-media-viewer/?profileId=ACoAAElp9mwBEOlrHNoaqBAZ6S9TA1qRypzMx50)** - Certificado de conclusão de Métodos Ágeis.
 - **[Certificado de Vue.js](https://link-para-certificado.com)** - Certificado de Vue.js da Udemy.
 
 ---
