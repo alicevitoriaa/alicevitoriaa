@@ -44,7 +44,7 @@ Período: `09/24` - `Atual` \
 
 ### 📂 Projetos Destacados:
 
-- **[Meu portfólio](https://alicevitoriaa.github.io/portifolio/)** - apresenta meus projetos e habilidades.
+- **[Meu portfólio](https://alicevitoriaa.github.io/portfolio/)** - apresenta meus projetos e habilidades.
 
 ---
 
