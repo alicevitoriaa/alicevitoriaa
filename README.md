@@ -65,7 +65,7 @@ Período: `09/24` - `Atual` \
 
 - **[Co.liga](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/overlay/1724981597354/single-media-viewer/?profileId=ACoAAElp9mwBEOlrHNoaqBAZ6S9TA1qRypzMx50)** - Curso de Métodos Ágeis.
 - **[CEBRAC](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/overlay/1727903219425/single-media-viewer/?profileId=ACoAAElp9mwBEOlrHNoaqBAZ6S9TA1qRypzMx50)** - Curso de Informática Aplicada.
-- - **[CEFET/RJ](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/overlay/1727903219425/single-media-viewer/?profileId=ACoAAElp9mwBEOlrHNoaqBAZ6S9TA1qRypzMx50)** - Ensino Médio Técnico (Informática).
+- **[CEFET/RJ](https://www.linkedin.com/in/alice-vit%C3%B3ria-5245a22a4/overlay/1727903219425/single-media-viewer/?profileId=ACoAAElp9mwBEOlrHNoaqBAZ6S9TA1qRypzMx50)** - Ensino Médio Técnico (Informática).
 
 ---
 
