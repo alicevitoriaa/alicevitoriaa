@@ -12,7 +12,7 @@
 
 ### 💼 Experiência de Trabalho
 
-[<img align="left" height="94px" width="94px" alt="WebDiet" src="https://media.licdn.com/dms/image/v2/C560BAQFXzoa9BMawOw/company-logo_200_200/company-logo_200_200/0/1630627639602/webdiet_logo?e=1734566400&v=beta&t=ITxhKglVf8q4vndUN00zF5PyxVDyoo-KCCanmrSuNYk"/>](https://webdiet.com.br/)
+[<img align="left" height="94px" width="94px" alt="WebDiet" src="[https://media.licdn.com/dms/image/v2/C560BAQFXzoa9BMawOw/company-logo_200_200/company-logo_200_200/0/1630627639602/webdiet_logo?e=1734566400&v=beta&t=ITxhKglVf8q4vndUN00zF5PyxVDyoo-KCCanmrSuNYk](https://webdiet.com.br/site/assets/img/logo.png)"/>](https://webdiet.com.br/)
 
 **Desenvolvedora Full Stack** \
 [**WebDiet**](https://webdiet.com.br/) • Estágio \
