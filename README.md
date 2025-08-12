@@ -20,14 +20,14 @@ Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Git`, `Bootstrap`, `Fire
 Período: `05/23` - `12/23`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://www.informaker.com.br/images/logobranco-128x35-39.png"/>](https://www.informaker.com.br/)
+[<img align="left" height="100px" width="94px" alt="InforMaker" src="https://www.informaker.com.br/images/logobranco-128x35-39.png"/>](https://www.informaker.com.br/)
 
 **Jovem Aprendiz Administrativo (English spoken)** \
 [**InforMaker**](https://www.informaker.com.br/) • Jovem Aprendiz \
 Período: `09/24` - `06/25` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png"/>](https://isabellafortunato.com/)
+[<img align="left" height="94px" width="94px" alt="Isabella Fortunato Traduções" src="https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png"/>](https://isabellafortunato.com/)
 
 **Auxiliar Administrativo** \
 [**Isabella Fortunato Traduções**](https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png) • Jovem Aprendiz \
