@@ -22,9 +22,16 @@ Período: `05/23` - `12/23`
 
 [<img align="left" height="94px" width="94px" alt="InforMaker" src="https://media.licdn.com/dms/image/v2/D4D0BAQGGMZJWuX2quQ/company-logo_200_200/company-logo_200_200/0/1683640911096/informaker_logo?e=1745452800&v=beta&t=aqRjZ6BcLOuTpI4D7irFRpHwSOvEeahKK5tHDjjFuDc"/>](https://www.informaker.com.br/)
 
-**Administrativo (English spoken)** \
+**Jovem Aprendiz Administrativo (English spoken)** \
 [**InforMaker**](https://www.informaker.com.br/) • Jovem Aprendiz \
-Período: `09/24` - `Atual` \
+Período: `09/24` - `06/25` \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="InforMaker" src="https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png"/>](https://isabellafortunato.com/)
+
+**Auxiliar Administrativo** \
+[**Isabella Fortunato Traduções**](https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png) • Jovem Aprendiz \
+Período: `06/25` - `Atual` \
 <br/>
 
 ---
