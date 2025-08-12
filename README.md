@@ -20,7 +20,7 @@ Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Git`, `Bootstrap`, `Fire
 Período: `05/23` - `12/23`
 <br/>
 
-[<img align="left" height="100px" width="94px" alt="InforMaker" src="https://www.informaker.com.br/images/logobranco-128x35-39.png"/>](https://www.informaker.com.br/)
+[<img align="left" height="200px" width="94px" alt="InforMaker" src="https://www.informaker.com.br/images/logobranco-128x35-39.png"/>](https://www.informaker.com.br/)
 
 **Jovem Aprendiz Administrativo (English spoken)** \
 [**InforMaker**](https://www.informaker.com.br/) • Jovem Aprendiz \
