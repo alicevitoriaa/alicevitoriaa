@@ -30,7 +30,7 @@ Período: `09/24` - `06/25` \
 [<img align="left" height="94px" width="94px" alt="Isabella Fortunato Traduções" src="https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png"/>](https://isabellafortunato.com/)
 
 **Auxiliar Administrativo** \
-[**Isabella Fortunato Traduções**](https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png) • Jovem Aprendiz \
+[**Isabella Fortunato Traduções**](https://isabellafortunato.com/wp-content/uploads/2025/05/cropped-cropped-BG-BRANCO_TRANSPARENTE-scaled-1.png) • Auxiliar Administrativo \
 Período: `06/25` - `Atual` \
 <br/>
 
